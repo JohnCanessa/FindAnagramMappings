@@ -9,7 +9,7 @@ in which the ith element in nums1 appears in nums2 at index j.
 If interested in my approach and comments I invite you to read
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/06/leetcode-760-find-anagram-mappings-in-java/
 
 Keep in mind that one of the best ways to learn is to read,
 experiment and repeat.
